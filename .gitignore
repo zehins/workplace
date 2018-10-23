@@ -1,8 +1,21 @@
 
+### ignore files ###
 
 *.idea
 
 *.iml
 
 *.class
+
+best-scala/target/*
+
+best-java/target/*
+
+*.jar
+
+
+
+
+
+
 
